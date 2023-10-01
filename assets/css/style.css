@@ -1,3 +1,37 @@
+/*........................Body*/
+body {
+    background-color: black;
+}
+
+/*........................Colourscheme*/
+.navbar-brand,
+.btn-close-white,
+h5,
+.nav-link,
+.card-title,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color:cadetblue;
+}
+
+.navbar-toggler {
+    color: transparent;
+    background-color: cadetblue;
+}
+
+.btn-success {
+    background-color: cadetblue;
+}
+
+.btn-success:hover {
+    background-color: white;
+    color: black;
+}
+
 /*........................Images */
 #dragonfly {
     max-width: 100px;
